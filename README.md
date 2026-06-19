@@ -108,7 +108,7 @@ A full IBNR analysis involves additional actuarial judgment beyond what's shown 
 - Adjustments for changes in claim processing speed, payment patterns, or data systems
 - Trend adjustments for utilization, unit cost, and benefit design changes
 - Large claim identification and treatment
-- IBNR vs. IBNEP segmentation
+- IBNR vs. IBNP segmentation
 - Credibility considerations when data is thin
 - Validation against expected loss ratios and other benchmarks
 - Appointed Actuary requirements for statutory filings
